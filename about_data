@@ -1,0 +1,18 @@
+✅ Dataset: Students Performance in Exams
+
+Table name: student_performance
+Columns include:
+
+gender
+
+parental_education
+
+lunch
+
+test_preparation_course
+
+math_score
+
+reading_score
+
+writing_score
